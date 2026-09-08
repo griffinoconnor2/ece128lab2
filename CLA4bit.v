@@ -1,3 +1,3 @@
-module CLA4bit.v();
+module CLA4bit();
 
 endmodule
