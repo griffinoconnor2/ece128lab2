@@ -8,8 +8,8 @@ reg Cin;
 wire [3:0] S;
 wire Cout;
 
-//Instantiate 4-bit RCA to test
-CLA uut(.A(A), .B(B), .Cin(Cin), .S(S), .Cout(Cout));
+//Instantiate 4-bit CLA to test
+CLA4bit uut(.A(A), .B(B), .Cin(Cin), .S(S), .Cout(Cout));
 
 //Perform various tests
 initial begin
