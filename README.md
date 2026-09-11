@@ -13,3 +13,4 @@ Multiple FA’s may be chained together to create multi-bit adders, in the form 
 3. Additional Sources
 
 https://hilite.me/ - Used to format Appendix code in Lab Report
+https://docs.amd.com/r/en-US/ug474_7Series_CLB/Carry-Chain-Primitive/ - Official documentation for the on-board chip
